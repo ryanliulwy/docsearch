@@ -1,0 +1,2 @@
+javac DocSearchServer.java
+java DocSearchServer 7019
